@@ -6,6 +6,10 @@
     padding: 0;
 }
 
+html{
+    scroll-behaviour: smooth;
+}    
+
 /* UTILITY */
 body{
     font-family: 'Balsamiq Sans', cursive;
